@@ -1,0 +1,6 @@
+pyserial
+PyQt5
+pycaw==20220416
+pyinstaller==5.0.1
+infi.systray
+pywin32==304
