@@ -6,4 +6,4 @@ Als erstes muss man alle Pip-Bibliotheken installieren, welche sich in der Datei
 
 "main.py" ist ein Fenster, wodrin man die Einstellungen, welche Programme in Sinne der Lautstärke gesteuert werden sollen, finden kann. Dieses Skript ist optional.
 
-"SysTray.py" ist der wichtige Teil dieses Lautstärkemixers. Dieser muss immer im Hintergrund laufen.
+"SysTray.py" ist der wichtige Teil dieses Lautstärkemixers. Dieser muss immer im Hintergrund laufen. Er nimmt die Daten über den seriellen Port an, gibt sie an das Fenster weiter und ändert die Lautstärken.
